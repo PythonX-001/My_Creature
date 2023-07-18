@@ -1,7 +1,7 @@
 # "Bullshit Knowledge Human" project
 i created this creature and fill it with some bullshit knowledge
 # preview img of the creature:
-![alt text]([http://url/to/img.png](https://instagram.fcmn1-1.fna.fbcdn.net/v/t51.2885-15/335587560_225809366494036_2072823960019882560_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ANINdspiEMoAX_rFOLH&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=MzA1ODk4NTA3OTA1MzI0MzY4Mg%3D%3D.2-ccb7-5&oh=00_AfAKRcR0PV9_t79XXrydwDYUl1ukPRsJKPNRWNqi63a7qQ&oe=64BB2086&_nc_sid=ee9879))
+![alt text]()
 
 
 
